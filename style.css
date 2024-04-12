@@ -1,0 +1,152 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#login{
+    border-color: rgb(219, 219, 219);
+    border: 1.4px groove;
+    margin-left: 654px;
+    padding: 20px;
+    margin-right: 260px;
+    margin-top: 50px;
+}
+.instagram{
+    height: 100px;
+    width: 190px;
+    margin-left: 64px;
+    padding-bottom: 18px;
+}
+#login>input{
+    height: 19px;
+    margin-bottom: 8px;
+    padding: 9px 0px 7px 8px;
+    margin-left: 15px;
+    width: 257px;
+    border-radius: 3px;
+    border: 1.4px groove;
+    background-color: #FAFAFA;
+    placeholder{
+        color: #737389;
+    }
+}
+#login>input:focus{
+    outline: none;
+}
+#or{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#facebook{
+    display: block;
+    text-align: center;
+    color: #385185;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 10px;
+}
+#forgot{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #003783;
+    padding-top: 10px;
+    font-size: smaller;
+}
+#signup{
+    border-color: rgb(219, 219, 219);
+    border: 1.4px groove;
+    margin-left: 654px;
+    margin-top: 10px;
+    height: 68px;
+    width: 331px;
+    font-size: medium;
+    text-align: center;
+    span{
+        display: inline;
+    }
+}
+#signup1{
+    text-decoration: none;
+    color: #0095F6;
+    font-weight: 500;
+}
+.googleplay{
+    height: 60px;
+    width: 152px;
+    margin-left: 15px;
+}
+.microsoft{
+    height: 60px;
+    width: 152px;
+    margin-left: -12px;
+}
+#loginbtn{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    height: 35px;
+    background-color: #4CB5F9;
+    border-radius: 5px;
+    margin-left: 14px;
+    width: 269px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+#box3{
+    margin-top: 5px;
+    margin-left: 654px;
+    margin-right: 260px;
+}
+.getapp{
+    padding: 122px;
+}
+#Foot1>a{
+    text-decoration: none;
+    color: #7373A0;
+    font-size: 12px;
+}
+footer>#Foot1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 219px;
+    margin-right: 220px;
+    margin-top: 40px;
+}
+#lang{
+    border: none;
+    color: #7373A0;
+    text-align: center;
+    margin-left: 500px;
+    display: flex;
+    display: inline;
+    justify-content: center;
+}
+#Foot2>span{
+    font-size: 12px;
+    color: #7373A0;
+    padding-top: 20px;
+}
+#line1{
+    width: 90px;
+    position: absolute;
+    margin-top: -355px;
+    margin-left: 690px;
+}
+#line2{
+    width: 90px;
+    position: absolute;
+    margin-top: -355px;
+    margin-left: 864px;
+}
+#iphone1>img{
+    position: absolute;
+    width: 680px;
+    height: 549px;
+    margin-top: -700px;
+}
+#iphone2>img{
+    position: absolute;
+    width: 680px;
+    height: 549px;
+    margin-top: -690px;
+    margin-left: 90px;
+}
